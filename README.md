@@ -6,8 +6,8 @@ This project applies portfolio optimisation techniques with a focus on Zambian f
 
 **Usage**
 
-Run Python script: python personal.py
-Run Jupyter notebook: jupyter notebook personal_project.ipynb
+- Run Python script: python personal.py
+- Run Jupyter notebook: jupyter notebook personal_project.ipynb
 
 **Example Output**
 
@@ -19,5 +19,6 @@ Run Jupyter notebook: jupyter notebook personal_project.ipynb
 - personal.py              # Main Python script
 - personal_project.ipynb   # Jupyter notebook version
 - requirements.txt         # Project dependencies
+
 
 
