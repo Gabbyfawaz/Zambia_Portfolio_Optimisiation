@@ -1,4 +1,4 @@
-Portfolio Optimisation Project
+**Portfolio Optimisation Project**
 
 **Overview**
 
@@ -6,20 +6,18 @@ This project applies portfolio optimisation techniques with a focus on Zambian f
 
 **Usage**
 
-Run Python script:
-python personal.py
-
-Run Jupyter notebook:
-jupyter notebook personal_project.ipynb
+Run Python script: python personal.py
+Run Jupyter notebook: jupyter notebook personal_project.ipynb
 
 **Example Output**
 
-Scatter plot of simulated portfolios with risk vs. return.
-Highlighted portfolio with the highest Sharpe ratio.
-Optimized weights, expected return, volatility, and Sharpe ratio.
+- Scatter plot of simulated portfolios with risk vs. return.
+- Highlighted portfolio with the highest Sharpe ratio.
+- Optimised weights, expected return, volatility, and Sharpe ratio.
 
 **Project Structure**
-├── personal.py              # Main Python script
-├── personal_project.ipynb   # Jupyter notebook version
-├── requirements.txt         # Project dependencies
+- personal.py              # Main Python script
+- personal_project.ipynb   # Jupyter notebook version
+- requirements.txt         # Project dependencies
+
 
